@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f8b"
+  },
+  "title": "Stranger Terriers",
+  "description": "A dog goes missing in a small town. Their owners go in search.",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/dog3.jpg",
+  "hoverImage": "images/dog4.jpg",
+  "type": "Original",
+  "video": "http://i.imgur.com/6dHi1F6.mp4",
+  "videoImg": "https://i.imgur.com/6dHi1F6.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f8c"
+  },
+  "title": "Mouse of Cards",
+  "description": "Mittens clashes with the Senate Majority Leader over legalizing catnip. Meanwhile Mister Tibbs uncovers the truth about the laser pointer.",
+  "year": "2017",
+  "rating": "10",
+  "subTitle": "Is a cat in the White House pawsible?",
+  "image": "images/cat.jpg",
+  "hoverImage": "images/cat.jpg",
+  "type": "Original",
+  "video": "https://i.imgur.com/P7RiAtO.mp4",
+  "videoImg": "https://i.imgur.com/P7RiAtO.jpg",
+  "category": "mainVid"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f8d"
+  },
+  "title": "Mr Doggo",
+  "description": "Will Spot manage to hack the planet?",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/dog1.jpg",
+  "hoverImage": "images/dog2.jpg",
+  "type": "Original",
+  "video": "http://i.imgur.com/Cw8JTkg.mp4",
+  "videoImg": "https://i.imgur.com/Cw8JTkg.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f8e"
+  },
+  "title": "Breaking Cat",
+  "description": "Cat Jesse goes off the rails. Will Cat Walter be able to save him?",
+  "year": "2016",
+  "rating": "9",
+  "image": "images/cat1.jpg",
+  "hoverImage": "images/cat2.jpg",
+  "type": "Original",
+  "video": "http://i.imgur.com/uWv0rim.mp4",
+  "videoImg": "https://i.imgur.com/uWv0rim.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f8f"
+  },
+  "title": "Arrested Dogvelopment",
+  "description": "Michael attempts to keep the family together. GOB tries his latest illusion.",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/dog7.jpg",
+  "hoverImage": "images/dog8.jpg",
+  "type": "Original",
+  "video": "https://i.imgur.com/LJohC29.mp4",
+  "videoImg": "https://i.imgur.com/LJohC29.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f90"
+  },
+  "title": "Paws",
+  "description": "A dangerous swimming cat terrorizes a beach.",
+  "year": "2017",
+  "rating": "8",
+  "image": "images/cat3.jpg",
+  "hoverImage": "images/cat4.jpg",
+  "type": "Original",
+  "video": "https://i.imgur.com/YV8DNtr.mp4",
+  "videoImg": "https://i.imgur.com/YV8DNtr.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f91"
+  },
+  "title": "The Big Cat Theory",
+  "description": "Soft kitty, warm kitty. Little ball of fur. Happy kitty, sleepy kitty. Purr, purr, purr",
+  "year": "2015",
+  "rating": "7",
+  "image": "images/cat5.jpg",
+  "hoverImage": "images/cat6.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/W0JfyHW.mp4",
+  "videoImg": "https://i.imgur.com/W0JfyHW.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f92"
+  },
+  "title": "Orange is the New Cat",
+  "description": "Something about prison? I don't watch this show.",
+  "year": "2017",
+  "rating": "8",
+  "image": "images/cat9.jpg",
+  "hoverImage": "images/cat10.jpg",
+  "type": "Original",
+  "video": "https://i.imgur.com/KWvtdg0.mp4",
+  "videoImg": "https://i.imgur.com/KWvtdg0.jpg",
+  "category": "originals"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f93"
+  },
+  "title": "CSI: Kittens",
+  "description": "Cat Scene Investogation solves a double felicide.",
+  "year": "2013",
+  "rating": "7",
+  "image": "images/cat7.jpg",
+  "hoverImage": "images/cat8.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/ujAO1Dl.mp4",
+  "videoImg": "https://i.imgur.com/ujAO1Dl.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f94"
+  },
+  "title": "Cat Rick and Cat Morty",
+  "description": "Cat Rick and Cat Morty explore a strange world where humans own cats.",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/cat11.jpg",
+  "hoverImage": "images/cat12.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/3zZVI9h.mp4",
+  "videoImg": "https://i.imgur.com/3zZVI9h.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f95"
+  },
+  "title": "Kitten Cops",
+  "description": "The kitten cops go on patrol!",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/cat13.jpg",
+  "hoverImage": "images/cat14.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/qUse4Ue.mp4",
+  "videoImg": "https://i.imgur.com/qUse4Ue.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f96"
+  },
+  "title": "Fast and the Furry",
+  "description": "A cat goes undercover in a pack of dogs who are stealing tennis balls with their suped up muscle cars",
+  "year": "2016",
+  "rating": "10",
+  "image": "images/cat15.jpg",
+  "hoverImage": "images/cat16.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/Duqccay.mp4",
+  "videoImg": "https://i.imgur.com/Duqccay.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f97"
+  },
+  "title": "Meow",
+  "description": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.",
+  "year": "2015",
+  "rating": "10",
+  "image": "images/cat17.jpg",
+  "hoverImage": "images/cat18.jpg",
+  "type": "Cat",
+  "video": "https://i.imgur.com/jbJRVEV.mp4",
+  "videoImg": "https://i.imgur.com/jbJRVEV.jpg",
+  "category": "cats"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f98"
+  },
+  "title": "Master of Dogs",
+  "description": "A struggling actor keeps getting typecast as a dog.",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/dog5.jpg",
+  "hoverImage": "images/dog6.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/oqpADX7.mp4",
+  "videoImg": "https://i.imgur.com/oqpADX7.jpg",
+  "category": "dogs"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f99"
+  },
+  "title": "Teen Wolf",
+  "description": "A teenager turns into a dog. That's exactly the same as the real show right?",
+  "year": "2013",
+  "rating": "10",
+  "image": "images/dog11.jpg",
+  "hoverImage": "images/dog12.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/hAH2ssf.mp4",
+  "videoImg": "https://i.imgur.com/hAH2ssf.jpg",
+  "category": "dogs"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f9a"
+  },
+  "title": "Westdog",
+  "description": "Mechanical dog toys plan an uprising",
+  "year": "2017",
+  "rating": "10",
+  "image": "images/dog9.jpg",
+  "hoverImage": "images/dog10.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/7zvzC0m.mp4",
+  "videoImg": "https://i.imgur.com/7zvzC0m.jpg",
+  "category": "dogs"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f9b"
+  },
+  "title": "Game of Throws",
+  "description": "Fetch!",
+  "year": "2016",
+  "rating": "10",
+  "image": "images/dog13.jpg",
+  "hoverImage": "images/dog14.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/OC0bwph.mp4",
+  "videoImg": "https://i.imgur.com/OC0bwph.jpg",
+  "category": "dogs"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f9c"
+  },
+  "title": "The Laser Pointer",
+  "description": "A tense psychological thriller about an unknown, fast-moving light. What is it and where does it come from? Will Spot ever find the answer?",
+  "year": "2014",
+  "rating": "10",
+  "image": "images/dog15.jpg",
+  "hoverImage": "images/dog16.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/djeivlK.mp4",
+  "videoImg": "https://i.imgur.com/djeivlK.jpg",
+  "category": "dogs"
+},
+{
+  "_id": {
+    "$oid": "59d69e978574da10184a6f9d"
+  },
+  "title": "Who's a Good Boy?",
+  "description": "Doggie is a good boy! Yes he is! Yes he is!",
+  "year": "2015",
+  "rating": "10",
+  "image": "images/dog17.jpg",
+  "hoverImage": "images/dog18.jpg",
+  "type": "Dog",
+  "video": "https://i.imgur.com/HNWMaIv.mp4",
+  "videoImg": "https://i.imgur.com/HNWMaIv.jpg",
+  "category": "dogs"
+}
+]

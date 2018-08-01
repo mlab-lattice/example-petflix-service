@@ -1,6 +1,6 @@
 $parameters:
   mongodb_uri:
-    type: secret
+    type: string
   node_pool:
     type: string
   num_instances:
